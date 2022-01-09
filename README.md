@@ -54,7 +54,7 @@ install.packages('stringr')
 
 - 如果是”天眼查高级搜索导出“或者”天眼查批量搜索导出“的数据的话，可以下载”Step1“文件夹中的对应文件。将需要处理的文件中的前两行删去（如下图）：
 
-  ![image-20220109101950031](C:\Users\Joshua. Mallison\AppData\Roaming\Typora\typora-user-images\image-20220109101950031.png)
+  ![image-20220109101950031](https://github.com/MiraclePlusBrain/MiracleplusContactsDataFormat/blob/main/img_storage/plot1.png)
 
 接着保证需要运行的文件与代码文件在同一路径中，运行代码即可接着进行下一步
 
@@ -64,7 +64,7 @@ install.packages('stringr')
 
 并在文件夹内创建一个新的空文件夹（要格式化的文档放这里），命名如下：
 
-<img src="C:\Users\Joshua. Mallison\AppData\Roaming\Typora\typora-user-images\image-20220109102753566.png" alt="image-20220109102753566" style="zoom:80%;" />
+<img src="https://github.com/MiraclePlusBrain/MiracleplusContactsDataFormat/blob/main/img_storage/plot2.png" alt="image-20220109102753566" style="zoom:80%;" />
 
 其中人脉导入结构化为核心代码，刚创建的新文件夹用来存放需要格式化的数据文件
 
@@ -88,7 +88,7 @@ install.packages('stringr')
 
 运行”人脉导入结构化“r文件，查看文件夹中多出的文件：（此处使用了”关键词筛选功能“）
 
-<img src="C:\Users\Joshua. Mallison\AppData\Roaming\Typora\typora-user-images\image-20220109103922864.png" alt="image-20220109103922864" style="zoom:80%;" />
+<img src="https://github.com/MiraclePlusBrain/MiracleplusContactsDataFormat/blob/main/img_storage/plot3.png" alt="image-20220109103922864" style="zoom:80%;" />
 
 文件名中最后的数字是该数据文件的行数。现在就可以将这两个文件上传至奇绩人脉了
 
